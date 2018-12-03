@@ -1,1 +1,2 @@
-# write_a_data_science_blog
+# Seattle Airbnb Data Analysis
+A Udacity DSND project using CRISP-DM to Analyze Seattle Airbnb Dataset.
