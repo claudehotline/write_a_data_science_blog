@@ -2,7 +2,7 @@
 A Udacity DSND project using CRISP-DM to Analyze Seattle Airbnb Dataset.
 
 # Installation
-The development tool of this project is Jupyter notebook and the Anaconda distribution of Python 3.7. Other necessary python libraries are * listed below:
+The development tool of this project is Jupyter notebook and the Anaconda distribution of Python 3.7. Other necessary python libraries are  listed below:
 * pandas 0.23.4
 * nmupy 1.15.4
 * matplotlib 3.0.1
