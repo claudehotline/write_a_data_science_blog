@@ -17,11 +17,14 @@ The development tool of this project is Jupyter notebook and the Anaconda distri
 
 # Technique
 **Missing value:** for columns with missing value proportion greater than 30%, drop those columns from the dataset; for numerical columns, fill in missing values with the column mean value.
+
 **Categorical column:** for each categorical column, create dummy columns for the column.
+
 **Value prediction:** for predicting the price of a new listing, this project uses the linear regression model provided by scikit_learn.
 
 # File Descriptions
 **data:** contains the Seattle Airbnb dataset CSV files.
+
 **Airbnb Seattle dataset.ipynb:** Jupyter notebook with python code performing the dataset analysis.
 
 # How to Interact
